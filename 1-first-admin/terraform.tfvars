@@ -1,1 +1,1 @@
-first_admin_name = "admin"
+first_admin_name = "bootcampaws-admin"
