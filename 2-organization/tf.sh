@@ -1,3 +1,3 @@
 #!/bin/bash
-PROFILE=root
+PROFILE=bootcampaws-admin
 aws-vault exec $PROFILE --no-session -- terraform $*
